@@ -1,0 +1,8 @@
+copy>true
+startDir>C:\Users\andre\Documents\ProgettoMeteo\PortaleMeteoVallauri3\out
+destDir>C:\Program Files\Apache24\htdocs\TestMeteo3
+replace>true
+replaceStartDir>C:\Program Files\Apache24\htdocs\TestMeteo3
+fileRegex>.*
+startPattern>="/
+endPattern>="./
